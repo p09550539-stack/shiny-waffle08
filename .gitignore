@@ -1,0 +1,41 @@
+.venv/
+.env
+.env.local
+.env.*.local
+node_modules/
+.next/
+build/
+dist/
+.DS_Store
+*.pyc
+__pycache__/
+*.log
+coverage/
+.vscode/
+.idea/
+
+# macOS
+*.DS_Store
+
+# JetBrains
+.idea/
+
+# Python
+venv/
+env/
+.venv/
+
+# npm
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# local database
+*.sqlite3
+
+# uploads
+uploads/
+
+# system files
+Thumbs.db
